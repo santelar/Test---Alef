@@ -24,7 +24,7 @@
 .root .header .header__bg {
   max-width: 100%;
   height: 100%;
-  background-image: url(./images/img/header__cat.jpg);
+  background-image: url(../images/img/header__cat.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
