@@ -467,7 +467,7 @@
 .root .footer .footer__subscribe-container .checkbox:checked + label::before {
   border-color: #6EBBD3;
   background-color: #6EBBD3;
-  background-image: url(/images/logos/check.svg);
+  background-image: url(../images/logos/check.svg);
 }
 @media screen and (max-width: 1330px) {
   .root .header {
